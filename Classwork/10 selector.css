@@ -1,0 +1,46 @@
+*{
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+#fruits{
+    color: red;
+    border:3px dotted greenyellow;
+}
+.a1{
+    font-weight: 600;
+    color: violet;
+
+}
+.a2{
+    font-weight: 600;
+    color: rgb(162, 238, 130);
+}
+.a3{
+    font-weight: 600;
+    color: rgb(238, 216, 130);
+    text-decoration: line-through;
+}
+p{
+    background-color: aqua;
+}
+input[type="text"]{
+    background-color: rgb(255, 123, 0);
+    border: 0cap;
+
+}
+input[type="password"]{
+    background-color: rgb(255, 255, 255);
+    border: 0cap;
+
+}
+input[type="email"]{
+    background-color: rgb(60, 255, 0);
+    border: 0px;
+}
+input[:placeholder="hello"]{
+    background-color: rgb(255, 255, 255);
+    
+}
+ul{
+    list-style: square;
+}

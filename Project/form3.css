@@ -1,0 +1,28 @@
+body{
+    background-color: #ffebcd;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 25%;
+    margin-right: 25%;
+   
+    
+    
+}
+#button{
+  background-color: #c4801b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.form{
+    background-color:white;
+    padding:0% 3% ;
+  border: 5px solid black;
+
+}
