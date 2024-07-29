@@ -1,0 +1,103 @@
+body{
+    background-image:url(https://cuiet.codebrigade.in/images/Chitkara_University_pic.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    border-top: 7px solid red;
+    background-attachment:fixed;
+    height: 120%;
+
+
+}
+.form{
+    background-color: white;
+    width: 285px;
+    height: 560px;
+    margin-left: 67%;
+    margin-top: 8%;
+    border: 2px solid  #cccc;
+    
+
+
+
+}
+#logo_373{
+    
+    margin:22px 20px 14px 42px;
+}
+.bar{
+    width: 225.33px;
+    margin: 5px 0 4px 20px;
+    border: 1px solid black ;
+    height: 25.33px;
+}
+.l1{
+    margin: 10px 20px 0px 20px;
+    font-size: 15px;
+}
+.l2{
+    margin: 0 13% 0 0;
+    font-size: 13px;
+}
+.l3{
+    margin:0 0 0 20px;
+}
+.l4{
+    margin:0  20px;
+    font-size: 13px;
+}
+#Session{
+    margin:5px 20px 0 20px ;
+    height: 23px;
+    width: 225px;
+    border: 1.5px solid black;
+}
+
+#button{
+background-color: #ca1616;
+border: none;
+color: white;
+padding: 1px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 17px;
+margin: 4px 20px;
+cursor: pointer;
+width: 220px;
+height: 37px;
+}
+#p{
+margin-left: 40% ;
+}
+#i1{margin: 0px;
+padding: 0px;
+width: 100%;
+}
+#i2{
+float: right;
+margin-right:26px;
+margin-top:-11px;
+height: 44px;
+width: 75px;
+}
+.center {
+    text-align: center;
+}
+.table {
+    margin-left: 60px;
+}
+.imgend {
+    position: absolute;
+    top: 0;
+    left: 1265px;
+    z-index: 1;
+}
+.table2{
+padding-left: 20px;
+}
+.table2 .p{
+padding: 3px;
+font-size: large;
+}
